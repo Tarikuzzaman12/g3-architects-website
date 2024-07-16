@@ -53,6 +53,21 @@
         margin-top: 0px;
        
     }
+    .feature-architect img{
+        width: 100%;
+    }
+
+    #experience-badge{
+        padding: 45px 42px;
+        font-size: 1.5rem;
+        font-weight: 500;
+        margin-left: -100px;
+        margin-top:-100px;
+    }
+    #experience-year{
+        font-size: 4rem;
+        font-weight: 700;
+    }
  /* some fact related styles  */
  .facts-container{
     display: grid;
@@ -173,6 +188,25 @@ main > section{
     margin-left: 130px;
     max-width: 530px;
 }
+
+/* footer styles */
+.text-secondary{
+    font-size: 1.25rem;
+    text-align: center;
+    background-color: #FFF4E7;
+    height: 100px;
+    width: 1440px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 8px;
+    margin-top: 50px;
+  margin-bottom: 50px;
+
+  
+     
+    
+} 
 
 
 
